@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Claudio Bardakes
+#### Front End Developer
+I am a front-end developer based out of Richmond, CA. I really enjoy learning about front-end technologies and overall programming languages and frameworks like React! I also enjoy UI, UX, and design in general.
 
-<!--
-**ClaudioBardales/claudiobardales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: STYLED-COMPONENTS/ REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Loop Studio Landing Page 
+- 👯 I’m looking to collaborate on Open Source Projects! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/claudiobardales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/claudiobardales/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://claudiobardales.dev/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobardales&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/claudiobardales)  

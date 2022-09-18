@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Claudio Bardakes
 #### Front End Developer
-I am a front-end developer based out of Richmond, CA. I really enjoy learning about front-end technologies and overall programming languages and frameworks like React! I also enjoy UI, UX, and design in general.
 ![Claudio Bardales](https://github.com/ClaudioBardales/claudiobardales/blob/master/image%20(1).png)
+I am a front-end developer based out of Richmond, CA. I really enjoy learning about front-end technologies and overall programming languages and frameworks like React! I also enjoy UI, UX, and design in general.
+
 
 Skills: STYLED-COMPONENTS/ REACT / JS / HTML / CSS
 

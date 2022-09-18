@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Claudio Bardakes
+### Hi there 👋, I'm Claudio Bardales
 #### Front End Developer
 ![Claudio Bardales](https://github.com/ClaudioBardales/claudiobardales/blob/master/image%20(1).png)
 

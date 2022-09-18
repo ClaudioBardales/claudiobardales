@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Claudio Bardales
-#### Front End Developer
+###### Front End Developer
 ![Claudio Bardales](https://github.com/ClaudioBardales/claudiobardales/blob/master/banner.png)
 
 I am a front-end developer based out of Richmond, CA. I really enjoy learning about front-end technologies and overall programming languages and frameworks like React! I also enjoy UI, UX, and design in general.
